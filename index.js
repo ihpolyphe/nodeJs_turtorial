@@ -13,9 +13,7 @@ const io = socketIo(server);
 const PORT = 3000;
 
 // ルーティングの設定。`/`にリクエストがあった場合、src/index.html
-app.get('/', (req, res) => {
-    res.sendFile(__dirname + '/index.html');
-});
+app.use(express.static('public'));
 
 //3000番ポートでHTTPサーバを起動
 server.listen(PORT, () => {
