@@ -13,7 +13,8 @@ Node.jsを勉強するために[Socket.ioを使って簡易的なチャットア
 →次ここかな[【Epxress】データベース接続の比較（MySQLとMongoDB）](https://qiita.com/i-ryo/items/d7416e0c4a6035c30288)
 
 - [ ] glitchでwebサーバーに公開
-- [ ] コマンドプロンプトでの開発が煩わしいのでWSLでNode.js開発できるようにセットアップする。
+- [x] コマンドプロンプトでの開発が煩わしいのでWSLでNode.js開発できるようにセットアップする。
+- [ ] README.md修正（ここはNode.jsの話、simpleChatにREADME.md追加）
 
 ## Node.js環境構築(winodows)
 - [Node.jsの開発環境を用意しよう！（Windows）](https://prog-8.com/docs/nodejs-env-win)
