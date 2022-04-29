@@ -4,6 +4,7 @@ Node.jsを勉強するために[Socket.ioを使って簡易的なチャットア
 
 # Todo
 - [x] フロントエンドの改良
+
 → cssの設定と読み込めるようにするよう改良(今後さらにUI改良する)
 
 [【Express】静的HTMLファイルの表示（res.sendFile()、express.static()）](https://www.i-ryo.com/entry/2020/04/16/215205)
