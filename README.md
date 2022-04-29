@@ -3,7 +3,7 @@
 Node.jsを勉強するために[Socket.ioを使って簡易的なチャットアプリを作る](https://weseek.co.jp/tech/1484/)を参考にして簡単なチャットボットを作成
 
 # Todo
-- [] フロントエンドの改良
+- [x] フロントエンドの改良
 → cssの設定と読み込めるようにするよう改良
 
 [【Express】静的HTMLファイルの表示（res.sendFile()、express.static()）](https://www.i-ryo.com/entry/2020/04/16/215205)
