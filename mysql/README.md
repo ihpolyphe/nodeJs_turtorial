@@ -32,6 +32,6 @@ https://qiita.com/monga3/items/6583c07a9b275b469608
 https://onoredekaiketsu.com/can-not-root-login-to-mysql-with-error-1045-28000/
 
 ## Todo
-- [ ] リポジトリの整理（リポジトリ名変更したり、データベースアクセスのファイル分けたり）
+- [X] リポジトリの整理（リポジトリ名変更したり、データベースアクセスのファイル分けたり）
 - [ ] viewファイルにアクセスできるようにするhttps://prog-8.com/docs/nodejs-mysql
-- [ ] README作成
+- [X] README作成
