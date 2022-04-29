@@ -35,3 +35,4 @@ https://onoredekaiketsu.com/can-not-root-login-to-mysql-with-error-1045-28000/
 - [X] リポジトリの整理（リポジトリ名変更したり、データベースアクセスのファイル分けたり）
 - [ ] viewファイルにアクセスできるようにするhttps://prog-8.com/docs/nodejs-mysql
 - [X] README作成
+- [ ] 環境情報追記
