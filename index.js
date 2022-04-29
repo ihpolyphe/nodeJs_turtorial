@@ -13,7 +13,7 @@ const io = socketIo(server);
 const PORT = 3000;
 
 // ルーティングの設定。`/`にリクエストがあった場合、src/index.html
-app.use(express.static('public'));
+app.use(express.static('simpleChat'));
 
 //3000番ポートでHTTPサーバを起動
 server.listen(PORT, () => {
