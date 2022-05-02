@@ -2,6 +2,8 @@
 
 Node.js+express+mySQLのチュートリアル。セットアップ方法からデータベース作成、Node.jsで接続するまでを確認。
 
+## 動かし方
+
 mysql起動
 ```
 sudo service start mysql
@@ -11,6 +13,13 @@ mysqlにアタッチ
 ```
 sudo mysql -u root -p<password>
 ```
+
+起動
+```
+cd /mnt/c/Users/hayat/Desktop/NodeJs/nodeJs_turtorial/mysql
+node mysql.js
+```
+ブラウザで`localhost:3000`を実行するとサーバのアイテムを表示できるようになっている。
 
 ## 参照先
 
