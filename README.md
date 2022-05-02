@@ -14,8 +14,8 @@ Node.jsを勉強するための練習
 - [ ] [Node.js / Expressを習得するためにやったことまとめ（随時更新）](https://qiita.com/i-ryo/items/d7416e0c4a6035c30288)を読む
 
 - [ ] glitchでwebサーバーに公開
-
 - [x] コマンドプロンプトでの開発が煩わしいのでWSLでNode.js開発できるようにセットアップする。
+- [x] README.md修正（ここはNode.jsの話、simpleChatにREADME.md追加）
 
 ## Node.js環境構築(winodows)
 - [Node.jsの開発環境を用意しよう！（Windows）](https://prog-8.com/docs/nodejs-env-win)
