@@ -1,6 +1,9 @@
-# simpleChat
+# NodeJs turtorial
 
-Node.jsを勉強するために[Socket.ioを使って簡易的なチャットアプリを作る](https://weseek.co.jp/tech/1484/)を参考にして簡単なチャットボットを作成
+Node.jsを勉強するための練習
+作成したアプリ
+- simpleChat:非同期な簡単なチャット機能を作成
+- mysql:Mysqlの練習ディレクトリ。データベースを作成してアクセスできるところまでできている。
 
 # Todo
 - [x] フロントエンドの改良
@@ -10,10 +13,9 @@ Node.jsを勉強するために[Socket.ioを使って簡易的なチャットア
 
 - [ ] [Node.js / Expressを習得するためにやったことまとめ（随時更新）](https://qiita.com/i-ryo/items/d7416e0c4a6035c30288)を読む
 
-→次ここかな[【Epxress】データベース接続の比較（MySQLとMongoDB）](https://qiita.com/i-ryo/items/d7416e0c4a6035c30288)
-
 - [ ] glitchでwebサーバーに公開
-- [ ] コマンドプロンプトでの開発が煩わしいのでWSLでNode.js開発できるようにセットアップする。
+
+- [x] コマンドプロンプトでの開発が煩わしいのでWSLでNode.js開発できるようにセットアップする。
 
 ## Node.js環境構築(winodows)
 - [Node.jsの開発環境を用意しよう！（Windows）](https://prog-8.com/docs/nodejs-env-win)
