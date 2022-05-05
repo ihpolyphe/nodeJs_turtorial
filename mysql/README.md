@@ -36,6 +36,7 @@ https://www.t3a.jp/blog/infrastructure/mysql-start-stop/)
 
 - [作ったデータベースに接続](https://prog-8.com/docs/nodejs-mysql)
 
+- [Node.js+ExpressでMySQLに接続して一覧表示する](https://0forest.com/node-js-mysql/)
 ## Troubleshooting
 https://qiita.com/monga3/items/6583c07a9b275b469608
 https://onoredekaiketsu.com/can-not-root-login-to-mysql-with-error-1045-28000/
