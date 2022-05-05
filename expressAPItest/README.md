@@ -24,5 +24,5 @@ nodemon index.js
 ```
 ブラウザで`localhost:3000`にアクセス
 
-##　参照
+## 参照
 - [【Express】body-parserでFetch API（およびForm）のPOST送信を受け取る](https://www.i-ryo.com/entry/2020/08/30/095357)
