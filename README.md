@@ -11,7 +11,10 @@ Node.jsを勉強するための練習
 
 [【Express】静的HTMLファイルの表示（res.sendFile()、express.static()）](https://www.i-ryo.com/entry/2020/04/16/215205)
 
-- [ ] [Node.js / Expressを習得するためにやったことまとめ（随時更新）](https://qiita.com/i-ryo/items/d7416e0c4a6035c30288)を読む
+- [x] [Node.js / Expressを習得するためにやったことまとめ（随時更新）](https://qiita.com/i-ryo/items/d7416e0c4a6035c30288)を読む
+→Expressを使用したCRUD処理まで実装できたのでいったん区切り。
+
+- [ ] REST APIの勉強
 
 - [ ] glitchでwebサーバーに公開
 - [x] コマンドプロンプトでの開発が煩わしいのでWSLでNode.js開発できるようにセットアップする。
@@ -37,3 +40,6 @@ $ node index.js
 ```
 
 起動に成功すると、ブラウザで`http://localhost:3000/`でチャットボットが起動できる。
+
+## Javascript拡張機能
+
