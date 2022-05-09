@@ -1,0 +1,16 @@
+{
+  "name": "chatonheroku",
+  "version": "1.0.0",
+  "description": "LINE で機能するチャットボットを作成する。Node.js のフレームワーク Express でサーバをたて、チャットボットを作成する。作成した後に Heroku へデプロイしてみる。",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
